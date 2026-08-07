@@ -19,3 +19,18 @@ Later on I plan to have UI Buttons, an OLED display, RGB, and other miscellaneou
 
 <img width="984" height="656" alt="image" src="https://github.com/user-attachments/assets/f5bc868b-4560-487e-bd64-160a245eebe7" />
 
+# 8/7/2026
+**Total Time Spent: 1.5 Hours**  [LAPSE](https://lapse.hackclub.com/timelapse/_Pdai5GIwAXI)
+
+I completely finished routing the schematic for my project this morning. In doing this I tackled a few inconsistency problems that showed up as ERC errors. I spent the second half of this session trying to find fans that accommodate my setup and still stay under the 500mA limit. So it's coming together so far, I have a polished flow in mind for now:
+
+- An OLED monitor
+- 4 Buttons (Speed Up/Down, Temp, & Reset)
+- Speed buttons will update the OLED screen in accordance to the fan speeds.
+- Temp will update the OLED screen in accordance to the temperature of the bed of the cooler.
+- Maybe a blinking light to signify worrying temperatures
+- 4 Temperature probes that will average out at the prompt of a temp button click
+
+And this stuff is basically just hardware allocation and firmware planning. I'm doing the PCB after I find the sizes of everything I'm going to use (footprints etc.) and I'll start thinking about the case design. The schematic looks like this right now though:
+
+<img width="1076" height="451" alt="image" src="https://github.com/user-attachments/assets/ae44b2f2-34c8-4e31-80fa-760643b1233b" />
