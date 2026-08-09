@@ -20,7 +20,7 @@ Later on I plan to have UI Buttons, an OLED display, RGB, and other miscellaneou
 <img width="984" height="656" alt="image" src="https://github.com/user-attachments/assets/f5bc868b-4560-487e-bd64-160a245eebe7" />
 
 # 8/7/2026
-**Total Time Spent: 3 Hours**  [LAPSE](https://lapse.hackclub.com/timelapse/_Pdai5GIwAXI) LAPSE
+**Total Time Spent: 3 Hours**  [LAPSE](https://lapse.hackclub.com/timelapse/_Pdai5GIwAXI) [LAPSE](https://lapse.hackclub.com/timelapse/6Ba2quzgtZRh)
 
 I completely finished routing the schematic for my project this morning. In doing this I tackled a few inconsistency problems that showed up as ERC errors. I spent the second half of this session trying to find fans that accommodate my setup and still stay under the 500mA limit. So it's coming together so far, I have a polished flow in mind for now:
 
@@ -39,4 +39,9 @@ I just finished my 2nd lapse of the day and I got the a great setup for moving o
 
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5dc776dc-4056-4c85-be5e-2e69deca330a" />
 
+# 8/9/2026
+**Total Time Spent: 2 Hours** LAPSE
 
+Managed to pretty much finish the PCB routing in one day. The whole process felt very convenient and streamlined. I might edit the footprints of the switches soon though. But for now I think I'm pretty much done. Next I'll be working on making sure all my parts are available for ordering and compatible with my setup. Because I asked AI and it said the NF-A20 5V PWM would be a lot better as an alternative to the 11V-12V one that I currently thought of using.
+
+<img width="1566" height="817" alt="image" src="https://github.com/user-attachments/assets/959d423b-b98a-4a9b-8170-1f1916eb8c88" />
