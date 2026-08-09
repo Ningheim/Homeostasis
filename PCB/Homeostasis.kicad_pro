@@ -76,7 +76,68 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "extra_footprint|157162500|23812500|1ebbb555-ed23-4cf0-a3bc-fcdf38d24285|00000000-0000-0000-0000-000000000000",
+          "Dont Care"
+        ],
+        [
+          "lib_footprint_issues|155599086|21821374|1ebbb555-ed23-4cf0-a3bc-fcdf38d24285|00000000-0000-0000-0000-000000000000",
+          "Dont Care"
+        ],
+        [
+          "lib_footprint_mismatch|102393750|94302500|2938eaaf-d850-4244-b65f-cbd2d3a2eed6|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|109545745|41671875|d792dfdb-462a-4f6c-bc33-73a3fa68cdac|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|113109375|20240625|44cc021c-c083-4325-a444-d23b53742490|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|126087500|93393750|8dc735df-4639-4691-9f57-f4f428cbc14c|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|135731250|41907388|db6a9a06-6bd8-4233-ac9b-c085eb57373a|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|135731250|55882611|65db9312-a327-48b9-ad4c-095f5cc9e98b|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|137993750|93393750|702121b7-8b91-41ef-af69-6fd625e9ae97|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|147617500|42941874|b29ca500-4575-4dae-9c29-4e7de8d7dc5d|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|147657500|55165624|d0d1fa08-2725-4af0-a18f-fa587c351d24|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|149900000|93393750|a8116ae7-12f0-45be-b8b7-0e28484475cd|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|155971875|42862500|37681e43-bf7c-49c2-b6e2-c214fab5ca91|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|155971875|54768750|4bcb7684-4c9b-453f-a594-8d4af26b930d|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ],
+        [
+          "lib_footprint_mismatch|161806250|93393750|c8653f8b-8eda-40ea-88c9-2593cb35fa90|00000000-0000-0000-0000-000000000000",
+          "Verified local footprint override; pad geometry and numbering correct."
+        ]
+      ],
       "meta": {
         "version": 2
       },
