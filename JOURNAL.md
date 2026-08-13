@@ -40,8 +40,15 @@ I just finished my 2nd lapse of the day and I got the a great setup for moving o
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5dc776dc-4056-4c85-be5e-2e69deca330a" />
 
 # 8/9/2026
-**Total Time Spent: 2 Hours** LAPSE
+**Total Time Spent: 2 Hours** [LAPSE](https://lapse.hackclub.com/timelapse/fK7ZPVicnXbZ)
 
 Managed to pretty much finish the PCB routing in one day. The whole process felt very convenient and streamlined. I might edit the footprints of the switches soon though. But for now I think I'm pretty much done. Next I'll be working on making sure all my parts are available for ordering and compatible with my setup. Because I asked AI and it said the NF-A20 5V PWM would be a lot better as an alternative to the 11V-12V one that I currently thought of using.
 
 <img width="1566" height="817" alt="image" src="https://github.com/user-attachments/assets/959d423b-b98a-4a9b-8170-1f1916eb8c88" />
+
+# 8/12/2026
+**Total Time Spent: 1 Hour** [LAPSE](https://lapse.hackclub.com/timelapse/eupKdvGjog4U)
+
+Finished up the base-plate of the cooling stand. I figured out how I'm going to make adjustable rails while thinking for a while. The project is nearly done.
+
+<img width="1075" height="556" alt="image" src="https://github.com/user-attachments/assets/8612e653-c3fc-44fe-b2eb-a5a528213c7b" />
