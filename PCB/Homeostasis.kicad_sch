@@ -9143,7 +9143,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c42b2afa-3555-44d0-87f9-a1fa5a3c53ba")
 		(property "Reference" "R9"
 			(at 194.3099 68.58 0)
@@ -9612,7 +9612,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dad7c061-3ba5-42f2-9329-58fbbcf8aff7")
 		(property "Reference" "R10"
 			(at 204.4699 68.58 0)
